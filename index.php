@@ -1,21 +1,11 @@
-<!DOCTYPE html>
-<html lang="fr">
-
-<head>
-    <?php
-    include "common/head.php";
-    ?>
-</head>
-
-<body>
-    <?php
-    $page = filter_input(INPUT_GET, "page");
+<?php
+    
+    $page = htmlspecialchars(filter_input(INPUT_GET,'page'));
+    $array = [
+        "lundi" => "18h à 22h",
+        "mardi" => "18h à 20h",
+        "mercredi" => "16h30 à 18h",
+        "jeudi" => "19h30 à 22h",
+        "vendredi" => "18h à 22h"
+    ];
     include "template.php";
-    ?>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
-</body>
-
-</html>

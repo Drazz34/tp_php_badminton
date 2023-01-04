@@ -4,8 +4,8 @@
             <div class="product-item-title d-flex">
                 <div class="bg-faded p-5 d-flex ms-auto rounded">
                     <h2 class="section-heading mb-0">
-                        <span class="section-heading-upper">Blended to Perfection</span>
-                        <span class="section-heading-lower">Coffees & Teas</span>
+                        <span class="section-heading-upper">Plein air</span>
+                        <span class="section-heading-lower">Stage de printemps</span>
                     </h2>
                 </div>
             </div>
@@ -24,8 +24,8 @@
             <div class="product-item-title d-flex">
                 <div class="bg-faded p-5 d-flex me-auto rounded">
                     <h2 class="section-heading mb-0">
-                        <span class="section-heading-upper">Delicious Treats, Good Eats</span>
-                        <span class="section-heading-lower">Bakery & Kitchen</span>
+                        <span class="section-heading-upper">Démonstration de champion</span>
+                        <span class="section-heading-lower">Pandrine Saul</span>
                     </h2>
                 </div>
             </div>
@@ -44,8 +44,8 @@
             <div class="product-item-title d-flex">
                 <div class="bg-faded p-5 d-flex ms-auto rounded">
                     <h2 class="section-heading mb-0">
-                        <span class="section-heading-upper">From Around the World</span>
-                        <span class="section-heading-lower">Bulk Speciality Blends</span>
+                        <span class="section-heading-upper">Stage Grau-du-Roi</span>
+                        <span class="section-heading-lower">“On the beach”</span>
                     </h2>
                 </div>
             </div>

@@ -4,10 +4,10 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto">
-                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=home">Home</a></li>
-                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=about">About</a></li>
-                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=products">Products</a></li>
-                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=store">Store</a></li>
+                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=actu">Actu</a></li>
+                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=equipe">Equipe</a></li>
+                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=stages">Stages</a></li>
+                <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.php?page=creneaux">Créneaux</a></li>
             </ul>
         </div>
     </div>

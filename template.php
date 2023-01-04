@@ -13,24 +13,24 @@
     include "common/navigation.php";
 
     if(!isset($page)) {
-        $page = "home";
+        $page = "actu";
     }
 
     switch ($page) {
-        case 'home':
-            include "content/index_content.php";
+        case 'actu':
+            include "content/actu_content.php";
             break;
-        case 'about':
-            include "content/about_content.php";
+        case 'equipe':
+            include "content/equipe_content.php";
             break;
-        case 'products':
-            include "content/products_content.php";
+        case 'stages':
+            include "content/stages_content.php";
             break;
-        case 'store':
-            include "content/store_content.php";
+        case 'creneaux':
+            include "content/creneaux_content.php";
             break;
         default:
-            include "content/page404.php";
+            include "content/page404.html";
             break;
     }
     include "common/footer.php";
