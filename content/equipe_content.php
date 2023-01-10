@@ -9,11 +9,12 @@
                             <span class="section-heading-upper">à propos</span>
                             <span class="section-heading-lower"> Développeur Web - Web Mobile, Promo 2022-23</span>
                         </h2>
-                        <p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi voluptate aperiam architecto incidunt. Perferendis repellat cumque assumenda at, cupiditate dicta suscipit distinctio nihil consequatur, fuga accusantium quis, debitis cum. Ipsum.
+                        </p>
                         <p class="mb-0">
-                            We guarantee that you will fall in
-                            <em>lust</em>
-                            with our decadent blends the moment you walk inside until you finish your last sip. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.
+                            Lorem ipsum dolor sit amet consectetur adipisicing.
+                            <em>lorem</em>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, possimus quaerat. Nihil alias debitis quo unde iste eius eos reiciendis blanditiis doloribus vero. Numquam molestias expedita cum nemo omnis debitis!
                         </p>
                     </div>
                 </div>
